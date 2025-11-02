@@ -1,0 +1,14 @@
+product_id,sku,name,category,price
+1,ELEC001,"Wireless Headphones",Electronics,89.99
+2,ELEC002,"Bluetooth Speaker",Electronics,59.99
+3,HOME001,"Aroma Diffuser",Home,39.99
+4,HOME002,"Smart Lamp",Home,49.99
+5,SPORT001,"Yoga Mat",Sports,24.99
+6,SPORT002,"Water Bottle",Sports,19.99
+7,CLOTH001,Hoodie,Clothing,54.99
+8,CLOTH002,Sneakers,Clothing,79.99
+9,TECH001,"Power Bank",Electronics,29.99
+10,TECH002,"Smart Watch",Electronics,129.99
+11,OFF001,"Desk Organizer",Office,22.50
+12,OFF002,"Laptop Stand",Office,29.99
+13,GADG001,"Wireless Charger",Gadgets,27.75
